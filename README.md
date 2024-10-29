@@ -17,7 +17,10 @@ int main()
     Sk = a * a;
     Pk = a * 4;
     cout << setprecision(3) << "S of square = " << Sk << endl;
+
+
     cout << setprecision(3) << "P of square = " << Pk << endl;
+    ghgjhghjgj
     
     return 0;
 }

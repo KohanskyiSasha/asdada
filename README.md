@@ -6,7 +6,6 @@
 #include <iomanip>
 using namespace std;
 
-rtytrytrytry
 int main()
 {
     float Sc = 12.56, r, a;
